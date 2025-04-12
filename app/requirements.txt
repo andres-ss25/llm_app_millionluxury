@@ -1,0 +1,8 @@
+certifi
+charset-normalizer
+idna
+pytz
+requests
+six
+tzdata
+urllib3
